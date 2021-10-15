@@ -35,7 +35,7 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - Laravel
 
 **Ekstra:**
-Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum.
+Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım son çalışmamdan.
 
 ------------
 
