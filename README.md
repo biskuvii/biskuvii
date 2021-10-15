@@ -56,7 +56,7 @@ Hoş görseller, tatlı yazılar... Hepsi bir yere kadar. Elimde somut şeyler o
 
 Sadece yazılımla ilgilenmiyorum. Aynı zamanda grafik tasarım & UI tasarım & UX tasarım gibi konularla da ilgileniyorum. Çalışmalarımda ve bu portfolyöde de gördüğünüz üzere bütün tasarımlar bana ait, bütün kaynak dosyaları bilgisayarımda duruyor.
 
-Tasarım benim için çok önemli. Bu sadece yazılıma özgü değil; herhangi bir üründe, hatta doğanın kendisinde de görüntü çok önemli. İlişkilerde, ürünlerde, kısacak insanların seçim yapacağı durumlarda türümüz, doğası gereği görüntüye önem verecektir. Özellikle de karşısındaki şey hakkında bilgisi yoksa, seçimi etkileyen ana unsurlardan birisi görüntü olacaktır.
+Tasarım benim için çok önemli. Bu sadece yazılıma özgü değil; herhangi bir üründe, hatta doğanın kendisinde de görüntü çok önemli. İlişkilerde, ürünlerde, kısaca insanların seçim yapacağı durumlarda türümüz, doğası gereği görüntüye önem verecektir. Özellikle de karşısındaki şey hakkında bilgisi yoksa, seçimi etkileyen ana unsurlardan birisi görüntü olacaktır.
 
 Bir tasarımın albenisi güçlendiren etken bazen çok basit bir değişim olabilir. Bunun en büyük örneği renklerdir. En basit tasarımda bile renk değişimi görüntüde büyük değişim olmuş yanılgısı gösterebilir. Kurgu ve renk seçimi birleştiği zaman tasarım mutfağından leziz mi leziz yemekler çıkar. ^.^
 
