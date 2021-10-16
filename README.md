@@ -32,9 +32,9 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - NuxtJS
 - ReactJS
 - NextJS
-- Laravel
 
 Yakın-orta gelecek hedeflerim;
+- Laravel
 - Java (İlgimi çok çekiyor.)
 - C#
 - React Native
