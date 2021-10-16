@@ -34,6 +34,11 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - NextJS
 - Laravel
 
+Yakın-orta gelecek hedeflerim;
+- Java (İlgimi çok çekiyor.)
+- C#
+- React Native
+
 **Ekstra:**
 Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım son çalışmamdan.
 
