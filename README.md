@@ -76,6 +76,8 @@ Bütün bunları öğrendiğimden beri tasarım programlarında kendimi gelişti
 - **Figma**
 - **Adobe Premiere Pro**
 
+Her ne kadar eskiden Bootstrap ile projeler yapmış olsam da, <b><em>artık hiçbir kütüphane kullanmıyorum. Bütün tasarımlar sıfırdan tarafımca hazırlandı. Ekstra kütüphane, yardımcı kaynak kullanmıyorum!</em></b>
+
 **Not:**
 Evet, bu görseldeki CV bana ait. Sadece bazı yerleri sansürledim o kadar. :yum:
 
