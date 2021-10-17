@@ -1,5 +1,6 @@
 ![](https://i.imgur.com/gw69TSY.png)
-##  &diams; Junior Front End Developer, ai.Wxby
+<h1 align="center">&diams; Junior Front End Developer, ai.Wxby</h1>
+
 Merhaba,
 
 Çaylak burada. Ben uzman değilim, ama biliyor musun? Çok fazla hayalim var. Yazılım dünyası beni çok heyecanlandırıyor. İnsanların yazılımlar sayesinde iş gücünü hafifletmesi, sınırlarını zorlayarak daha da ileriye doğru ilerlemesi beni çok motive ediyor. Kodladığım yazılımların bir gün insanlara umut ve iş sağlamasını istiyorum.
@@ -10,7 +11,8 @@ Gerçekten, önümde çok uzun bir yol var, öyle değil mi? Yazılması gereken
 
 ------------
 ![](https://i.imgur.com/LaLPlGB.png)
-### Teknolojiler & Seviyeler
+<h3 align="center"> Teknolojiler & Seviyeler </h3>
+
 ------------
 Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı değilim. Tecrübe edinme konusunda daha çok yolum var. Ancak listelemem gerekirse şu teknolojileri biliyorum:
 
@@ -45,7 +47,8 @@ Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **
 ------------
 
 [![](https://i.imgur.com/h51oj0R.png)](https://github.com/aiWxby?tab=repositories)
-### Proje Deposu
+<h3 align="center"> Proje Deposu </h3>
+
 ------------
 
 Hoş görseller, tatlı yazılar... Hepsi bir yere kadar. Elimde somut şeyler olmazsa sözlerim... Onlar ne işe yaralar ki?
@@ -56,7 +59,8 @@ Hoş görseller, tatlı yazılar... Hepsi bir yere kadar. Elimde somut şeyler o
 
 
 ![](https://i.imgur.com/3g8e73k.png)
-### Ekstra Beceriler
+<h3 align="center"> Ekstra Beceriler </h3>
+
 ------------
 
 Sadece yazılımla ilgilenmiyorum. Aynı zamanda grafik tasarım & UI tasarım & UX tasarım gibi konularla da ilgileniyorum. Çalışmalarımda ve bu portfolyöde de gördüğünüz üzere bütün tasarımlar bana ait, bütün kaynak dosyaları bilgisayarımda duruyor.
@@ -77,7 +81,8 @@ Evet, bu görseldeki CV bana ait. Sadece bazı yerleri sansürledim o kadar. :yu
 
 ------------
 ![](https://i.imgur.com/O6wp2LR.png)
-### Yolun Sonu
+<h3 align="center"> Yolun Sonu </h3>
+
 ------------
 Şimdilik buraya kadar. Gelecek beni nereye sürükler bilmiyorum fakat yürümeye devam etmeliyim. Durmak gibi bir lüksüm yok. Eğer benimle iletişim kurmak istiyorsanız şu bağlantılardan bana ulaşabilirsiniz:
 - [Facebook](https://www.facebook.com/ai.wxby.0 "Facebook")
