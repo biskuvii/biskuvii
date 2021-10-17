@@ -25,7 +25,7 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **HTML**       --> [:star::star::star:]
 - **CSS**        --> [:star::star::star:]
 - **SASS/SCSS**  --> [:star::star::star:]
-- **Javascript** --> [:star::star:]
+- **JavaScript** --> [:star::star:]
 - **TypeScript** --> [:star:]
 - **VueJS**      --> [:star::star:]
 - **PHP**        --> [:star::star:]
