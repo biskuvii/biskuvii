@@ -46,7 +46,7 @@ Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **
 
 ------------
 
-[![](https://i.imgur.com/h51oj0R.png)](https://github.com/aiWxby?tab=repositories)
+[![](https://i.imgur.com/2R2CLAh.png)](https://github.com/aiWxby?tab=repositories)
 <h3 align="center"> Proje Deposu </h3>
 
 ------------
