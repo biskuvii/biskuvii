@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/gw69TSY.png)
-<h1 align="center">&diams; Junior Front End Developer, ai.Wxby</h1>
+<h1 align="center">&diams; Junior Front-End Developer, ai.Wxby</h1>
 
 Merhaba,
 
