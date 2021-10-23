@@ -31,15 +31,14 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **PHP**        --> [:star::star:]
 
 İlk hedefim bu teknolojilerde tecrübe kazanmak. Yakın gelecek hedeflerim;
-- NuxtJS
 - ReactJS
+- Laravel
+- NuxtJS
 - NextJS
 
 Yakın-orta gelecek hedeflerim;
-- Laravel
 - Java (İlgimi çok çekiyor.)
 - C#
-- React Native
 
 **Ekstra:**
 Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım son çalışmamdan.
