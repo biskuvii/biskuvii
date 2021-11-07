@@ -28,16 +28,13 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **JavaScript** --> [:star::star:]
 - **TypeScript** --> [:star:]
 - **VueJS**      --> [:star::star:]
+- **ReactJS**      --> [:star::star:]
 - **PHP**        --> [:star::star:]
 
-İlk hedefim bu teknolojilerde tecrübe kazanmak. Yakın gelecek hedeflerim;
-- ReactJS
-- Laravel
-- NuxtJS
-- NextJS
+Ana hedefim Full-Stack geliştirici olabilmek. Öncesindeki hedefim frontend alanında tecrübe kazanmak. Daha sonraysa bir backend dili öğrenerek full-stack geliştirici olmak. MERN/MEVN-Stack ilk hedef. Daha sonraysa Go, PHP-Laravel... Hangisi uygunsa onu öğrenmek istiyorum. Umarım bu öğrenme açlığım bitmez. :)
 
-Yakın-orta gelecek hedeflerim;
-- Java (İlgimi çok çekiyor.)
+Orta gelecek hedeflerim;
+- C++
 - C#
 
 **Ekstra:**
