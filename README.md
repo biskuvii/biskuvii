@@ -3,7 +3,7 @@
 
 Merhaba,
 
-Çaylak burada. Ben uzman değilim, ama biliyor musun? Çok fazla hayalim var. Yazılım dünyası beni çok heyecanlandırıyor. İnsanların yazılımlar sayesinde iş gücünü hafifletmesi, sınırlarını zorlayarak daha da ileriye doğru ilerlemesi beni çok motive ediyor. Kodladığım yazılımların bir gün insanlara umut ve iş sağlamasını istiyorum.
+Çaylak burada. Ben uzman değilim, ama biliyor musun? Çok fazla hayalim var. Yazılım dünyası beni çok heyecanlandırıyor. İnsanların yazılımlar sayesinde iş gücünü hafifletmesi, sınırlarını zorlayarak daha da ileriye gidebilmesi, yaratıcılıklarını konuşturabilmesi beni çok motive ediyor. Kodladığım yazılımların bir gün insanlara umut ve iş sağlamasını istiyorum.
 
 Gerçekten, önümde çok uzun bir yol var, öyle değil mi? Yazılması gereken binlerce satır kod, beni bekleyen bir gelecek var. Umarım en kısa sürede bu yolculuğa **gerçekten** başlayabilirim. Bana şans dile, ihtiyacım olacak.
 
