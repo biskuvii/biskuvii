@@ -34,8 +34,9 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 Ana hedefim Full-Stack geliştirici olabilmek. Öncesindeki hedefim frontend alanında tecrübe kazanmak. Daha sonraysa bir backend dili öğrenerek full-stack geliştirici olmak. Go, NodeJS/Express... Hangisi uygunsa onu öğrenmek istiyorum. Umarım bu öğrenme açlığım bitmez. :)
 
 Orta gelecek hedeflerim;
-- C++
 - C#
+- C++
+- Assembly
 
 **Ekstra:**
 Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım son çalışmamdan.
