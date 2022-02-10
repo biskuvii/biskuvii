@@ -27,8 +27,9 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **SASS/SCSS**  --> [:star::star::star:]
 - **JavaScript** --> [:star::star:]
 - **TypeScript** --> [:star:]
+- **Angular**    --> [:star:]
 - **VueJS**      --> [:star::star:]
-- **ReactJS**      --> [:star::star:]
+- **ReactJS**    --> [:star:]
 - **PHP**        --> [:star::star:]
 
 Ana hedefim Full-Stack geliştirici olabilmek. Öncesindeki hedefim frontend alanında tecrübe kazanmak. Daha sonraysa bir backend dili öğrenerek full-stack geliştirici olmak. Go, NodeJS/Express... Hangisi uygunsa onu öğrenmek istiyorum. Umarım bu öğrenme açlığım bitmez. :)
