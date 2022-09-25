@@ -1,11 +1,13 @@
 ![](https://i.imgur.com/gw69TSY.png)
-<h1 align="center">&diams; Junior Front-End Developer, ai.Wxby</h1>
+<h1 align="center">&diams; Front-End Developer, ai.Wxby</h1>
 
-Merhaba,
+Esenlikler,
 
-Çaylak burada. Ben uzman değilim, ama biliyor musun? Çok fazla hayalim var. Yazılım dünyası beni çok heyecanlandırıyor. İnsanların yazılımlar sayesinde iş gücünü hafifletmesi, sınırlarını zorlayarak daha da ileriye gidebilmesi, yaratıcılıklarını konuşturabilmesi beni çok motive ediyor. Kodladığım yazılımların bir gün insanlara umut ve iş sağlamasını istiyorum.
+Çaylak burada. Ben uzman değilim, ama biliyor musunuz? Çok fazla hayalim var. Yazılım dünyası beni çok heyecanlandırıyor. İnsanların yazılımlar sayesinde iş gücünü hafifletmesi, sınırlarını zorlayarak daha da ileriye gidebilmesi, yaratıcılıklarını konuşturabilmesi beni çok motive ediyor. Kodladığım yazılımların bir gün insanlara umut ve iş sağlamasını istiyorum.
 
-Gerçekten, önümde çok uzun bir yol var, öyle değil mi? Yazılması gereken binlerce satır kod, beni bekleyen bir gelecek var. Umarım en kısa sürede bu yolculuğa **gerçekten** başlayabilirim. Bana şans dile, ihtiyacım olacak.
+Kendi karakterimde, iş dünyasında bana artı katacak özelliklerse kullanıcı deneyimine ve pratikliğe önem veriyor olmam. Henüz yolun başında olduğumdan bütün gücü sarf ettiğim kısım işin teknik kısmı ancak her şeyiyle düzgün çalışan projelerde dahi; "Nasıl daha pratik hale getirebiliriz?", "Proje, kullanıcıya nasıl bir deneyim sunuyor?" gibi soruları kendime sormayı çok seviyorum ve bunun iş dünyasında bana katkısı olacağını düşünüyorum.
+
+Gerçekten, önümde çok uzun bir yol var, öyle değil mi? Yazılması gereken binlerce satır kod, beni bekleyen çetin bir gelecek var. Umarım en kısa sürede bu yolculuğa **gerçekten** başlayabilirim. Bana şans dile, ihtiyacım olacak.
 
 ^.^
 
@@ -27,10 +29,9 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **SASS/SCSS**  --> [:star::star::star:]
 - **JavaScript** --> [:star::star:]
 - **TypeScript** --> [:star:]
-- **Angular**    --> [:star:]
 - **VueJS**      --> [:star::star:]
 - **ReactJS**    --> [:star:]
-- **PHP**        --> [:star::star:]
+- **Go**         --> [:star:]
 
 Ana hedefim Full-Stack geliştirici olabilmek. Öncesindeki hedefim frontend alanında tecrübe kazanmak. Daha sonraysa bir backend dili öğrenerek full-stack geliştirici olmak. Go, NodeJS/Express... Hangisi uygunsa onu öğrenmek istiyorum. Umarım bu öğrenme açlığım bitmez. :)
 
@@ -39,13 +40,11 @@ Yakın/orta gelecek hedeflerim;
 - Go
 
 Gelecek hedeflerim;
-- C
-- C#
-- C++
-- Assembly
+- C/C++
+- Python
 
 **Ekstra:**
-Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım son çalışmamdan.
+Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım bi' çalışmamdan.
 
 ------------
 
@@ -66,7 +65,7 @@ Hoş görseller, tatlı yazılar... Hepsi bir yere kadar. Elimde somut şeyler o
 
 ------------
 
-Sadece yazılımla ilgilenmiyorum. Aynı zamanda grafik tasarım & UI tasarım & UX tasarım gibi konularla da ilgileniyorum. Çalışmalarımda ve bu portfolyöde de gördüğünüz üzere bütün tasarımlar bana ait, bütün kaynak dosyaları bilgisayarımda duruyor.
+Sadece yazılımla ilgilenmiyorum. Aynı zamanda grafik tasarım & arayüz tasarım & kullanıcı deneyimi gibi konularla da ilgileniyorum. Çalışmalarımda ve bu portfolyöde de gördüğünüz üzere bütün tasarımlar bana ait, bütün kaynak dosyaları bilgisayarımda duruyor.
 
 Tasarım benim için çok önemli. Bu sadece yazılıma özgü değil; herhangi bir üründe, hatta doğanın kendisinde de görüntü çok önemli. İlişkilerde, ürünlerde, kısaca insanların seçim yapacağı durumlarda türümüz, doğası gereği görüntüye önem verecektir. Özellikle de karşısındaki şey hakkında bilgisi yoksa, seçimi etkileyen ana unsurlardan birisi görüntü olacaktır.
 
@@ -77,7 +76,6 @@ Bütün bunları öğrendiğimden beri tasarım programlarında kendimi gelişti
 - **Adobe Photoshop**
 - **Adobe XD**
 - **Figma**
-- **Adobe Premiere Pro**
 
 Her ne kadar eskiden Bootstrap ile projeler yapmış olsam da, <b><em>artık hiçbir kütüphane kullanmıyorum. Bütün tasarımlar sıfırdan tarafımca hazırlandı. Ekstra kütüphane, yardımcı kaynak kullanmıyorum!</em></b>
 
