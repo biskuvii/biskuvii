@@ -7,10 +7,6 @@ Esenlikler,
 
 Kendi karakterimde, iş dünyasında bana artı katacak özelliklerse kullanıcı deneyimine ve pratikliğe önem veriyor olmam. Henüz yolun başında olduğumdan bütün gücü sarf ettiğim kısım işin teknik kısmı ancak her şeyiyle düzgün çalışan projelerde dahi; "Nasıl daha pratik hale getirebiliriz?", "Proje, kullanıcıya nasıl bir deneyim sunuyor?" gibi soruları kendime sormayı çok seviyorum ve bunun iş dünyasında bana katkısı olacağını düşünüyorum.
 
-Gerçekten, önümde çok uzun bir yol var, öyle değil mi? Yazılması gereken binlerce satır kod, beni bekleyen çetin bir gelecek var. Umarım en kısa sürede bu yolculuğa **gerçekten** başlayabilirim. Bana şans dile, ihtiyacım olacak.
-
-^.^
-
 ------------
 ![](https://i.imgur.com/LaLPlGB.png)
 <h3 align="center"> Teknolojiler & Seviyeler </h3>
@@ -31,15 +27,20 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **TypeScript** --> [:star:]
 - **VueJS**      --> [:star::star:]
 - **ReactJS**    --> [:star:]
+- **Angular**    --> [:star:]
 - **Go**         --> [:star:]
 
-Ana hedefim Full-Stack geliştirici olabilmek. Öncesindeki hedefim frontend alanında tecrübe kazanmak. Daha sonraysa bir backend dili öğrenerek full-stack geliştirici olmak. Go, NodeJS/Express... Hangisi uygunsa onu öğrenmek istiyorum. Umarım bu öğrenme açlığım bitmez. :)
+Genel hedefim, amacım nedir diye soracak olursanız size şöyle özeteyebilirim:
+
+Kendi yazılım kariyerimi iki aşamaya böldüm. İlk aşama tamamen kariyer odaklı bir web geliştirici yolculuğu. Her ne kadar şu an Ön Yüz Geliştiricisi gibi gözüksem de asıl isteğim Tam Yığın Web Geliştirici olabilmek. Bunu istiyorum çünkü gerçekleşmesini istediğim ve insanların hayatlarını kolaylaştıracak hayallerim var. Şu an teknik anlamda yetersiz olsam da, yeterli tecrübeyi kazanınca bu hayalleri gerçekleştirmek istiyorum. 
+
+İkinci aşama daha farklı çünkü bu sefer sadece yazılım değil başka alanlarda da çalışma yapmak istiyorum. Şöyle ki; DAW yazılımları, DAW eklentileri, masaüstü uygulamaları, yapay zeka uygulamaları, oyun yapımı ve oyun yamaları, hacking işlemleri gibi derin ve hayal gücümün bana katacağı kurgu gücümü enfekte edebileceğim alanlarda çalışmalar yapmak istiyorum. Gerçekten, önümde çok uzun bir yol var, öyle değil mi? Yazılması gereken on binlerce satır kod, beni bekleyen çetin bir gelecek var.
 
 Yakın/orta gelecek hedeflerim;
-- NodeJS/Express
+- NodeJS/ExpressJS
 - Go
 
-Gelecek hedeflerim;
+Uzak (?) gelecek hedeflerim;
 - C/C++
 - Python
 
@@ -92,6 +93,8 @@ Evet, bu görseldeki CV bana ait. Sadece bazı yerleri sansürledim o kadar. :yu
 - [LinkedIn](https://www.linkedin.com/in/ertuğrul-elibol-7732b3222/ "LinkedIn")
 - ai.wxby@gmail.com
 
-Öyleyse şimdilik hoşçakal yabancı.
+Öyleyse hoşça kal ve bana şans dile, ihtiyacım olacak.
+
+:innocent:
 
 ![](https://i.imgur.com/oo5g5SX.png)
