@@ -12,23 +12,17 @@ Kendi karakterimde, iş dünyasında bana artı katacak özelliklerse kullanıc�
 <h3 align="center"> Teknolojiler & Seviyeler </h3>
 
 ------------
-Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı değilim. Tecrübe edinme konusunda daha çok yolum var. Ancak listelemem gerekirse şu teknolojileri biliyorum:
+Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı değilim. Tecrübe edinme konusunda daha çok yolum var. Ancak listelemem gerekirse şu teknolojileri biliyorum ve/veya öğrenmeye çalışıyorum:
 
->  Yıldızlar seviyeyi temsil ediyor:
-> - Çok İyi - [:star::star::star::star:]
-> - İyi - [:star::star::star:]
-> - Orta - [:star::star:]
-> - Başlangıç - [:star:]
+**Ana Teknolojiler**
+- **SASS/SCSS**  
+- **TypeScript** 
+- **VueJS**
 
-- **HTML**       --> [:star::star::star:]
-- **CSS**        --> [:star::star::star:]
-- **SASS/SCSS**  --> [:star::star::star:]
-- **JavaScript** --> [:star::star:]
-- **TypeScript** --> [:star:]
-- **VueJS**      --> [:star::star:]
-- **ReactJS**    --> [:star:]
-- **Angular**    --> [:star:]
-- **Go**         --> [:star:]
+**Üzerine Çalışmayı Planladıklarım**
+- **NuxtJS**
+- **Vitest**
+- **Cypress**
 
 Genel hedefim, amacım nedir diye soracak olursanız size şöyle özeteyebilirim:
 
