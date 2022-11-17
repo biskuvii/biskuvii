@@ -55,7 +55,7 @@ Hoş görseller, tatlı yazılar... Hepsi bir yere kadar. Elimde somut şeyler o
 ------------
 
 
-![](https://i.imgur.com/3g8e73k.png)
+![](https://i.imgur.com/AnEWG8R.png)
 <h3 align="center"> Ekstra Beceriler </h3>
 
 ------------
@@ -73,9 +73,6 @@ Bütün bunları öğrendiğimden beri tasarım programlarında kendimi gelişti
 - **Figma**
 
 Her ne kadar eskiden Bootstrap ile projeler yapmış olsam da, <b><em>artık hiçbir kütüphane kullanmıyorum. Bütün tasarımlar sıfırdan tarafımca hazırlandı. Ekstra kütüphane, yardımcı kaynak kullanmıyorum!</em></b>
-
-**Not:**
-Evet, bu görseldeki CV bana ait. Sadece bazı yerleri sansürledim o kadar. :yum:
 
 ------------
 ![](https://i.imgur.com/O6wp2LR.png)
