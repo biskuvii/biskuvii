@@ -20,6 +20,7 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **VueJS**
 
 **Üzerine Çalışmayı Planladıklarım**
+- **Python**
 - **NuxtJS**
 - **Vitest**
 - **Cypress**
@@ -30,13 +31,9 @@ Kendi yazılım kariyerimi iki aşamaya böldüm. İlk aşama tamamen kariyer od
 
 İkinci aşama daha farklı çünkü bu sefer sadece yazılım değil başka alanlarda da çalışma yapmak istiyorum. Şöyle ki; DAW yazılımları, DAW eklentileri, masaüstü uygulamaları, yapay zeka uygulamaları, oyun yapımı ve oyun yamaları, hacking işlemleri gibi derin ve hayal gücümün bana katacağı kurgu gücümü enfekte edebileceğim alanlarda çalışmalar yapmak istiyorum. Gerçekten, önümde çok uzun bir yol var, öyle değil mi? Yazılması gereken on binlerce satır kod, beni bekleyen çetin bir gelecek var.
 
-Yakın/orta gelecek hedeflerim;
-- NodeJS/ExpressJS
-- Go
-
-Uzak (?) gelecek hedeflerim;
+Gelecekteki teknoloji hedeflerim;
 - C/C++
-- Python
+- NodeJS/ExpressJS
 
 **Ekstra:**
 Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım bi' çalışmamdan.
