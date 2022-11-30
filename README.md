@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/gw69TSY.png)
-<h1 align="center">&diams; Front-End Developer, ai.Wxby</h1>
+<h1 align="center">&diams; Developer, ai.Wxby</h1>
 
 Esenlikler,
 
@@ -19,8 +19,8 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **TypeScript** 
 - **VueJS**
 
-**Üzerine Çalışmayı Planladıklarım**
-- **Python**
+**Üzerine Çalışmayı Sürdürdüklerim*
+- **Python** (Aktif)
 - **NuxtJS**
 - **Vitest**
 - **Cypress**
