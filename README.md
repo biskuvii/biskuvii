@@ -33,10 +33,9 @@ Kendi yazılım kariyerimi iki aşamaya böldüm. İlk aşama tamamen kariyer od
 
 Gelecekteki teknoloji hedeflerim;
 - C/C++
-- NodeJS/ExpressJS
 
 **Ekstra:**
-Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım bi' çalışmamdan.
+Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** ve **JetBrains Pycharm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım bi' çalışmadan.
 
 ------------
 
