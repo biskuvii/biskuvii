@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/gw69TSY.png)
-<h1 align="center">&diams; Developer, ai.Wxby</h1>
+<h1 align="center">&diams; Developer, Ertuğrul Elibol</h1>
 
 Esenlikler,
 
@@ -15,27 +15,19 @@ Kendi karakterimde, iş dünyasında bana artı katacak özelliklerse kullanıc�
 Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı değilim. Tecrübe edinme konusunda daha çok yolum var. Ancak listelemem gerekirse şu teknolojileri biliyorum ve/veya öğrenmeye çalışıyorum:
 
 **Ana Teknolojiler**
-- **SASS/SCSS**  
-- **TypeScript** 
+- **ReactJS**
+- **NextJS**
 - **VueJS**
+- **SASS/SCSS**  
+- **TypeScript** (Pasif)
 
-**Üzerine Çalışmayı Sürdürdüklerim*
-- **Python** (Aktif)
-- **NuxtJS**
-- **Vitest**
-- **Cypress**
 
 Genel hedefim, amacım nedir diye soracak olursanız size şöyle özeteyebilirim:
 
 Kendi yazılım kariyerimi iki aşamaya böldüm. İlk aşama tamamen kariyer odaklı bir web geliştirici yolculuğu. Her ne kadar şu an Ön Yüz Geliştiricisi gibi gözüksem de asıl isteğim Tam Yığın Web Geliştirici olabilmek. Bunu istiyorum çünkü gerçekleşmesini istediğim ve insanların hayatlarını kolaylaştıracak hayallerim var. Şu an teknik anlamda yetersiz olsam da, yeterli tecrübeyi kazanınca bu hayalleri gerçekleştirmek istiyorum. 
 
-İkinci aşama daha farklı çünkü bu sefer sadece yazılım değil başka alanlarda da çalışma yapmak istiyorum. Şöyle ki; DAW yazılımları, DAW eklentileri, masaüstü uygulamaları, yapay zeka uygulamaları, oyun yapımı ve oyun yamaları, hacking işlemleri gibi derin ve hayal gücümün bana katacağı kurgu gücümü enfekte edebileceğim alanlarda çalışmalar yapmak istiyorum. Gerçekten, önümde çok uzun bir yol var, öyle değil mi? Yazılması gereken on binlerce satır kod, beni bekleyen çetin bir gelecek var.
-
-Gelecekteki teknoloji hedeflerim;
-- C/C++
-
 **Ekstra:**
-Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** ve **JetBrains Pycharm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım bi' çalışmadan.
+Editör olarak **Visual Studio Code** kullanıyorum. Arada sırada IDE olarak **JetBrains WebStorm** kullanıyorum. Görseldeki kodlar üzerinde çalıştığım bi' çalışmadan.
 
 ------------
 
@@ -76,9 +68,8 @@ Her ne kadar eskiden Bootstrap ile projeler yapmış olsam da, <b><em>artık hi�
 
 ------------
 Şimdilik buraya kadar. Gelecek beni nereye sürükler bilmiyorum fakat yürümeye devam etmeliyim. Durmak gibi bir lüksüm yok. Eğer benimle iletişim kurmak istiyorsanız şu bağlantılardan bana ulaşabilirsiniz:
-- [Facebook](https://www.facebook.com/ai.wxby.0 "Facebook")
 - [LinkedIn](https://www.linkedin.com/in/ertuğrul-elibol-7732b3222/ "LinkedIn")
-- ai.wxby@gmail.com
+- ertugrul.elibol55@gmail.com
 
 Öyleyse hoşça kal ve bana şans dile, ihtiyacım olacak.
 
