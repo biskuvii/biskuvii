@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/gw69TSY.png)
-<h1 align="center">&diams; Developer, Ertuğrul Elibol</h1>
+<h1 align="center">&diams; Developer, Ertuğrul Elibol.</h1>
 
 Esenlikler,
 
