@@ -3,7 +3,7 @@
 
 Esenlikler,
 
-Çaylak burada. Ben uzman değilim, ama biliyor musunuz? Çok fazla hayalim var. Yazılım dünyası beni çok heyecanlandırıyor. İnsanların yazılımlar sayesinde iş gücünü hafifletmesi, sınırlarını zorlayarak daha da ileriye gidebilmesi, yaratıcılıklarını konuşturabilmesi beni çok motive ediyor. Kodladığım yazılımların bir gün insanlara umut ve iş sağlamasını istiyorum.
+Çaylak burada. Biliyor musunuz? Çok fazla hayalim var. Yazılım dünyası beni çok heyecanlandırıyor. İnsanların yazılımlar sayesinde iş gücünü hafifletmesi, sınırlarını zorlayarak daha da ileriye gidebilmesi, yaratıcılıklarını konuşturabilmesi beni çok motive ediyor. Kodladığım yazılımların bir gün insanlara umut ve iş sağlamasını istiyorum.
 
 Kendi karakterimde, iş dünyasında bana artı katacak özelliklerse kullanıcı deneyimine ve pratikliğe önem veriyor olmam. Henüz yolun başında olduğumdan bütün gücü sarf ettiğim kısım işin teknik kısmı ancak her şeyiyle düzgün çalışan projelerde dahi; "Nasıl daha pratik hale getirebiliriz?", "Proje, kullanıcıya nasıl bir deneyim sunuyor?" gibi soruları kendime sormayı çok seviyorum ve bunun iş dünyasında bana katkısı olacağını düşünüyorum.
 
@@ -18,6 +18,9 @@ Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı deği
 - **ReactJS**
 - **NextJS**
 - **VueJS**
+- **GraphQL**
+- **Rest API**
+- **Tailwind**
 - **SASS/SCSS**  
 - **TypeScript** (Pasif)
 
