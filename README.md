@@ -12,7 +12,6 @@ Kendi karakterimde, iş dünyasında bana artı katacak özelliklerse kullanıc�
 <h3 align="center"> Teknolojiler & Seviyeler </h3>
 
 ------------
-Sanırım en önemli kısım burası. Maalesef henüz hiçbirinde iddialı değilim. Tecrübe edinme konusunda daha çok yolum var. Ancak listelemem gerekirse şu teknolojileri biliyorum ve/veya öğrenmeye çalışıyorum:
 
 **Ana Teknolojiler**
 - **ReactJS**
