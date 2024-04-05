@@ -1,3 +1,5 @@
+Dikkat! Buradaki yazılar ve listeler eski zamana aittir ve güncellenmesi gereken hâyli fazla bilgi bulunuyor. Devam etmeniz takdirde bunu dikkate almanızı önemle rica ederim.
+
 ![](https://i.imgur.com/gw69TSY.png)
 <h1 align="center">&diams; Front-end Developer, Ertuğrul Elibol.</h1>
 
